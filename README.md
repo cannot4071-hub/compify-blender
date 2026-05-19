@@ -2,40 +2,11 @@
 
 **A Blender addon for easier/better compositing in 3D space.**  
 
-Demo: https://youtu.be/GIGjy5w5mak
-
-This addon was originally created by **Nathan Vegdahl** and **Ian Hubert**. Without their work, this unofficial version would not exist. **All credit to them.**
+This addon was originally created by **Nathan Vegdahl** and **Ian Hubert**. Without their work, this unofficial version would not exist. **Baseline credit goes to them.**
 
 **THERE ARE LIMITATIONS WITH THIS ADDON. MAIN KNOWN IS NO OPAQUE REFLECTIONS ATM (wip).**
 **REFLECTED GEO RELFECTIONS/GLOSSY WONT SEE THE FOOTAGE GEO**
 **THERE ARE OTHERS HERE AND THERE**
-
----
-
-<img width="383" height="213" src="https://github.com/user-attachments/assets/8fb013da-f923-4d66-9a96-b6798e73da52" alt="Main UI Preview" />
-
-
-
-## Support Ian Hubert
-
- **Subscribe to Ian’s Patreon:**  
-[https://www.patreon.com/IanHubert](https://www.patreon.com/IanHubert)
-
- **Ian's Official Github for Compify:** 
- 
-https://github.com/EatTheFuture/compify
-
-> *(I am doing this purely as a user and make no income from these changes/updates.)*
-
----
-
-<img width="431" height="622" alt="Screenshot_20250928_001606" src="https://github.com/user-attachments/assets/03fe8079-f2a2-442b-898f-51098e4ccfa1" />
-
-
-##  Original Addon Description
-
-> This addon is currently beta quality. There may still be major bugs and rough edges, but in general it should basically work.  
-> Due to limitations in Blender's Python APIs, there are also some rough edges that are unfortunately impossible to fix at the moment.
 
 ---
 
@@ -226,16 +197,6 @@ Reflection controls include:
 
 Licensed under the **GNU General Public License v2.0**  
 See [LICENSE.md](./LICENSE.md) for full details.
-
----
-
-## Contributing
-  
-I'm very open to feedback and collaboration on this fork!
-
-> I love this tool and keep thinking of new features almost weekly.  
-> Feel free to [open issues](../../issues) or contact me!
-> I commit a ton because I'm dumb.
 
 ---
 
